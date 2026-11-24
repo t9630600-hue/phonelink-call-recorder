@@ -1,0 +1,7 @@
+# личные настройки и данные
+config.json
+*.log
+window-dump.txt
+*.mp3
+*.wav
+ffmpeg.exe
