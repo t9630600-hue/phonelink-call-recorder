@@ -3,6 +3,17 @@
 Automatic call recording for **Microsoft Phone Link** («Связь с телефоном») on Windows 10/11.
 Phone Link can make and receive phone calls over Bluetooth, but it has no way to record them. This tool fills the gap.
 
+| | |
+|---|---|
+| 🇬🇧 English | Automatically records Phone Link calls on Windows: both voices in one MP3, no ringing, file named after the contact. |
+| 🇷🇺 Русский | Автоматически записывает звонки «Связи с телефоном» в Windows: оба голоса в одном MP3, без гудков, файл назван по имени контакта. |
+| 🇺🇿 O‘zbekcha | Windows’dagi «Telefon bilan bog‘lanish» (Phone Link) qo‘ng‘iroqlarini avtomatik yozib oladi: ikkala ovoz bitta MP3’da, gudoksiz, fayl kontakt nomi bilan. |
+| 🇹🇷 Türkçe | Windows’ta Phone Link aramalarını otomatik kaydeder: iki ses tek MP3’te, çalma sesi yok, dosya adı kişinin adı. |
+| 🇪🇸 Español | Graba automáticamente las llamadas de Phone Link en Windows: ambas voces en un MP3, sin tonos de llamada, archivo con el nombre del contacto. |
+| 🇩🇪 Deutsch | Nimmt Phone-Link-Anrufe unter Windows automatisch auf: beide Stimmen in einer MP3, ohne Freizeichen, Datei nach dem Kontakt benannt. |
+| 🇧🇷 Português | Grava automaticamente as chamadas do Phone Link no Windows: as duas vozes em um MP3, sem toque de chamada, arquivo com o nome do contato. |
+| 🇨🇳 中文 | 自动录制 Windows「手机连接」(Phone Link) 的通话：双方声音合成一个 MP3，去掉等待铃声，文件以联系人命名。 |
+
 [Русская версия ниже ↓](#по-русски)
 
 ## What it does
